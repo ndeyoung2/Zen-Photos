@@ -10,7 +10,6 @@ export default function App() {
 
   const handlePressImage = () => Alert.prompt("What are you thinking?")
 
-
   return (
       <SafeAreaView style={styles.container}>
         <Text style={styles.titleText}>Zen Photos</Text>
@@ -69,6 +68,7 @@ const styles = StyleSheet.create({
   },
   scrollView: {
     backgroundColor: 'lavender',
+    margin: 20
   },
   baseText: {
     fontFamily: 'Sans-Serif',
