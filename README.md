@@ -12,4 +12,4 @@ https://youtu.be/izudItwZqOA
 
 run: 
 
-//npx expo start
+`npx expo start`
