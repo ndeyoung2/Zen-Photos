@@ -6,10 +6,10 @@ This is a front-end only tutorial in the basic components of React Native.
 
 It is meant to be a strictly ephemeral project that captures and releases impressions, not save everything in a traditional journal. In this way, it mimics meditation practices in which you observe thoughts, then release them.
 
-![video]https://youtu.be/izudItwZqOA
+https://youtu.be/izudItwZqOA
 
 ### For set up:
 
 run: 
 
-npx expo start
+//npx expo start
